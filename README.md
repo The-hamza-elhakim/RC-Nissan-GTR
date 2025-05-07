@@ -1,2 +1,43 @@
 # RC-Nissan-GTR
 RC Car modeled after the Iconic Nissan GTR r35. Designed from scratch using AVR128DB28 MCU, ultrasonic sensors, joystick control, I2C LCD, and L298N motor driver. Built in MPLAB X, with custom PCBs, bare-metal C firmware, and real-time sensor feedback.
+
+# ENEL 300 RC Car – Embedded Systems Final Project
+
+## Overview
+This project is a fully functional RC car built from scratch using embedded C on the AVR128DB28 microcontroller. It includes:
+
+- motor control via custom built L298N motor driver PCB
+- Ultrasonic sensor for obstacle detection
+- 4 digit display for distance feedback
+- Remote controller using joystick module (KY-023) and Wireless 433Mhz RF Transmitter/Receiver Modules
+- Custom PCBs and real-time sensor integration
+
+## Features
+- Real-time distance sensing (HC-SR04)
+- Metal detection with buzzer output
+- Headlight control (GPIO driven)
+- Directional motor control with PWM
+- I2C LCD for debug/status
+
+## File Structure
+(Include brief explanation of folders)
+
+## Technologies
+- AVR128DB28 microcontroller
+- Bare-metal C (no Arduino)
+- MPLAB X IDE
+- I2C, PWM, ADC, GPIO
+- Custom PCB Design (KiCAD)
+
+## Getting Started
+1. Open `firmware/car/main.c` in MPLAB X
+2. Connect UPDI programmer to AVR128DB28
+3. Build & flash
+
+## Documentation
+See [`docs/`](docs/) folder for project reports and architecture
+
+## Author
+Hamza Elhakim – Electrical and Computer Engineering Student
+
+
