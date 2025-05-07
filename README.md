@@ -27,7 +27,7 @@ This project is a fully functional RC car built from scratch using embedded C on
 - Custom PCB Design (KiCAD)
 
 ## Documentation
-See [`docs/`](docs/) folder for project reports and architecture
+See [`Documentation/`](Documentation/) folder for project reports and architecture
 
 ## Author
 Hamza Elhakim – Electrical and Computer Engineering Student
