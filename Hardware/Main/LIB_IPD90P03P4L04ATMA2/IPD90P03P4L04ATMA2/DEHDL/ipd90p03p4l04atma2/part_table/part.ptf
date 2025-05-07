@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IPD90P03P4L04ATMA2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IPD90P03P4L04ATMA2" (!) = "", "IPD90P03P4L04ATMA2", "Other", "726-IPD90P03P4L04AT2", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD90P03P4L04ATMA2?qs=GBLSl2AkirsiV3288w9Ccg%3D%3D", "MOSFET MOSFET_(20V 40V)  P-channel PG-TO252-3-11", "https://componentsearchengine.com/Datasheets/2/IPD90P03P4L04ATMA2.pdf", "2.5 mm"
+END_PART
+
+END.

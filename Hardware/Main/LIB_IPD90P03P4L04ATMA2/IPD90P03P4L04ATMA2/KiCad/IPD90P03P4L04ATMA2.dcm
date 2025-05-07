@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD90P03P4L04ATMA2
+D MOSFET MOSFET_(20V 40V)  P-channel PG-TO252-3-11
+K
+F https://componentsearchengine.com/Datasheets/2/IPD90P03P4L04ATMA2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/11196546/1608972/2.50/3/0/MOSFET (P-Channel)/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r220_120" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="47.244094488188" height="86.614173228345" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="55.11811023622" height="94.488188976377" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="47.244094488188" height="86.614173228345" />
+  </padstyle>
+  <padstyle name="r640_580" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="228.34645669291" height="251.968503937" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="236.22047244094" height="259.84251968504" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="228.34645669291" height="251.968503937" />
+  </padstyle>
+  <footprint name="IPD90P03P4L04ATMA2" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r220_120" originx="-89.763779527558" originy="0" rotation="0" />
+    <pcbpin number="2" name="2" style="r640_580" originx="0" originy="248.03149606299" rotation="0" />
+    <pcbpin number="3" name="3" style="r220_120" originx="89.763779527558" originy="0" rotation="0" />
+    <line layer="TOP_ASSEMBLY" originx="-127.95275590551" originy="334.64566929133" endx="127.95275590551" endy="334.64566929133" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="127.95275590551" originy="334.64566929133" endx="127.95275590551" endy="89.763779527558" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="127.95275590551" originy="89.763779527558" endx="-127.95275590551" endy="89.763779527558" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-127.95275590551" originy="89.763779527558" endx="-127.95275590551" endy="334.64566929133" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-167.32283464567" originy="413.38582677165" endx="167.32283464567" endy="413.38582677165" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="167.32283464567" originy="413.38582677165" endx="167.32283464567" endy="-108.26771653543" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="167.32283464567" originy="-108.26771653543" endx="-167.32283464567" endy="-108.26771653543" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-167.32283464567" originy="-108.26771653543" endx="-167.32283464567" endy="413.38582677165" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-94.488188976377" originy="-61.023622047243" endx="-94.488188976377" endy="-61.023622047243" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-94.488188976377" originy="-64.960629921259" startangle="90.0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-94.488188976377" originy="-68.897637795275" endx="-94.488188976377" endy="-68.897637795275" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-94.488188976377" originy="-64.960629921259" startangle="-90.0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-127.95275590551" originy="112.20472440945" endx="-127.95275590551" endy="89.763779527558" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-127.95275590551" originy="89.763779527558" endx="127.95275590551" endy="89.763779527558" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="127.95275590551" originy="89.763779527558" endx="127.95275590551" endy="112.20472440945" width="7.8740157480314" />
+  </footprint>
+  <symbol name="IPD90P03P4L04ATMA2" originx="0" originy="0">
+    <line originx="300" originy="100" endx="300" endy="-100" width="0" />
+    <line originx="300" originy="200" endx="300" endy="300" width="0" />
+    <line originx="100" originy="0" endx="200" endy="0" width="0" />
+    <line originx="200" originy="200" endx="200" endy="0" width="0" />
+    <line originx="300" originy="100" endx="230" endy="100" width="0" />
+    <line originx="300" originy="200" endx="230" endy="200" width="0" />
+    <line originx="230" originy="0" endx="300" endy="0" width="0" />
+    <line originx="230" originy="220" endx="230" endy="180" width="0" />
+    <line originx="230" originy="-20" endx="230" endy="20" width="0" />
+    <line originx="230" originy="80" endx="230" endy="120" width="0" />
+    <arc originx="250" originy="100" startangle="180" sweepangle="180" radius="150" width="0" />
+    <arc originx="250" originy="100" startangle="180" sweepangle="-180" radius="150" width="0" />
+    <sympin number="1" originx="100" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="0" originy="-20" style="Default" rotation="0" justify="upperleft" flipped="False" hidden="True" data="G" />
+      <text name="pindes" originx="80" originy="10" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="300" originy="300" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="320" originy="400" style="Default" rotation="90" justify="upperleft" flipped="False" hidden="True" data="D" />
+      <text name="pindes" originx="280" originy="400" style="Default" rotation="90" justify="upperright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="300" originy="-100" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="320" originy="-200" style="Default" rotation="90" justify="lowerleft" flipped="False" hidden="True" data="S" />
+      <text name="pindes" originx="280" originy="-200" style="Default" rotation="90" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <polygon type="polygon">
+      <point x="300" y="100" />
+      <point x="260" y="120" />
+      <point x="260" y="80" />
+    </polygon>
+  </symbol>
+  <component name="IPD90P03P4L04ATMA2" designatorprefix="Q" height="98.425196850392" footprint="IPD90P03P4L04ATMA2">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="G" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="D" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="S" />
+    <attached_symbol gate="1" name="IPD90P03P4L04ATMA2" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://componentsearchengine.com/Datasheets/2/IPD90P03P4L04ATMA2.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="MOSFET MOSFET_(20V 40V)  P-channel PG-TO252-3-11" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="726-IPD90P03P4L04AT2" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD90P03P4L04ATMA2?qs=GBLSl2AkirsiV3288w9Ccg%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Infineon" />
+    <text name="Manufacturer_Part_Number" originx="450" originy="50" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="IPD90P03P4L04ATMA2" />
+  </component>
+</quadcept_library>

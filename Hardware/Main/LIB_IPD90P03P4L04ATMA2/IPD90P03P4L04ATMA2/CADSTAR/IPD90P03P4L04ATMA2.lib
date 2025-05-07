@@ -1,0 +1,16 @@
+.IPD90P03P4L04ATMA2 :1 ;MOSFET MOSFET_(20V 40V)  P-channel PG-TO252-3-11
+IPD90P03P4L04ATMA2
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IPD90P03P4L04ATMA2
+~!Mouser Part Number (726-IPD90P03P4L04AT2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD90P03P4L04ATMA2?qs=GBLSl2AkirsiV3288w9Ccg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IPD90P03P4L04ATMA2)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/IPD90P03P4L04ATMA2.pdf)
+~!Height (2.5mm)
+~!3D_Model (IPD90P03P4L04ATMA2)
+IPD90P03P4L04ATMA2
+1.1!U 2.1!U 3.1!U 

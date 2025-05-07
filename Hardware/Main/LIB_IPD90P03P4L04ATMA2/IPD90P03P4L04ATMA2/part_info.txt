@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IPD90P03P4L04ATMA2
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Other
+PinCount=3
+Version=1.4
+Released=2021-02-03 20:10:28
+Downloaded=2025-02-20 01:56:12
+3D=Y

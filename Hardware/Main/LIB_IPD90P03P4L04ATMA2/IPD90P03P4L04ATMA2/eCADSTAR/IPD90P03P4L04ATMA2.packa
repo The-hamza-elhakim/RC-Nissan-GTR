@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IPD90P03P4L04ATMA2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-02-03-20:10:28)
+    (mountForm default
+        (footprintRef "IPD90P03P4L04ATMA2")
+        (spec "System")
+    )
+)
