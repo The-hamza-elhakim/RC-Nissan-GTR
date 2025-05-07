@@ -30,7 +30,7 @@ This project is a fully functional RC car built from scratch using embedded C on
 See [`Documentation/`](Documentation/) folder for project reports and architecture
 
 Read the full project report here:  
-[ENEL 300 RC Car Final Report (Google Docs)]((https://docs.google.com/document/d/1p-epSyup4PSlBaB8h3Y5LkGUN4icb1V6V-HfzxVr1pI/edit?tab=t.0))
+[ENEL 300 RC Car Final Report (Google Docs)](https://docs.google.com/document/d/1p-epSyup4PSlBaB8h3Y5LkGUN4icb1V6V-HfzxVr1pI/edit?tab=t.0)
 
 ## Author
 Hamza Elhakim – Electrical and Computer Engineering Student
